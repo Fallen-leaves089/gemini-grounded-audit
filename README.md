@@ -1,5 +1,6 @@
 # gemini-grounded-audit
 
+[![Release](https://img.shields.io/github/v/release/Fallen-leaves089/gemini-grounded-audit?label=release)](https://github.com/Fallen-leaves089/gemini-grounded-audit/releases/latest)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Audit: read-only](https://img.shields.io/badge/audit-read--only-informational.svg)](SKILL.md)
 [![Adapter: Gemini CLI + Gemini](https://img.shields.io/badge/adapter-Gemini%20CLI%20%2B%20Gemini-blueviolet.svg)](hosts/gemini-cli.md)
