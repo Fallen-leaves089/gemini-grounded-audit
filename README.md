@@ -15,6 +15,7 @@ Gemini + Gemini CLI 的证据优先项目健康审计技能。此项目是 `grou
 | 分发仓库 | `gemini-grounded-audit` |
 | 宿主 | Gemini CLI |
 | 模型 | Gemini |
+| 适配范围 | 宿主 + 模型专项 |
 | 技能名 | `project-health-auditor` |
 | 调用入口 | `/skills list` 后按描述激活 |
 | 适配证据 | `documented` |
