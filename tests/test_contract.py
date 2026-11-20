@@ -31,7 +31,7 @@ class ContractTests(unittest.TestCase):
         self.assertEqual(lines[0].strip(), "---")
         self.assertIn("name: project-health-auditor", lines)
         self.assertIn("license: Apache-2.0", lines)
-        self.assertIn("  version: 0.1.1", lines)
+        self.assertIn("  version: 0.1.2", lines)
         self.assertNotIn("allowedTools:", text)
         self.assertNotIn("allowed-tools:", text)
         allowed = str(MANIFEST.get("allowed_tools_marker", ""))
